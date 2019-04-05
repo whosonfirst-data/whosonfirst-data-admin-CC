@@ -1,0 +1,67 @@
+{
+  "id": 890422387,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"96.89497,-12.11645,96.89497,-12.11645",
+    "geom:latitude":-12.11645,
+    "geom:longitude":96.89497,
+    "gn:country":"CC",
+    "gn:fcode":"PPL",
+    "gn:pop":500,
+    "iso:country":"CC",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "qs:name":"Bantam Village",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"2",
+    "src:geom":"unknown",
+    "src:population":"geonames",
+    "wd:wordcount":674,
+    "wof:belongsto":[
+        102191569,
+        404550151,
+        85672275
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1547382,
+        "qs:id":556918,
+        "wk:page":"Bantam, Connecticut"
+    },
+    "wof:country":"CC",
+    "wof:created":1469051441,
+    "wof:geomhash":"2419ce8515ae820830d693b521c062af",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":-1,
+            "localadmin_id":404550151,
+            "locality_id":890422387,
+            "region_id":85672275
+        }
+    ],
+    "wof:id":890422387,
+    "wof:lastmodified":1535062873,
+    "wof:name":"Bantam Village",
+    "wof:parent_id":404550151,
+    "wof:placetype":"locality",
+    "wof:population":500,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-cc",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    96.89497,
+    -12.11645,
+    96.89497,
+    -12.11645
+],
+  "geometry": {"coordinates":[96.89497,-12.11645],"type":"Point"}
+}
