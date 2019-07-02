@@ -63,11 +63,11 @@
     "name:ces_x_preferred":[
         "Kokosov\u00e9 ostrovy"
     ],
+    "name:ces_x_variant":[
+        "Kokosov\u00e9 Ostrovy"
+    ],
     "name:cym_x_preferred":[
         "Ynysoedd Cocos [Keeling]"
-    ],
-    "name:cze_x_preferred":[
-        "Kokosov\u00e9 Ostrovy"
     ],
     "name:dan_x_colloquial":[
         "Cocosoerne",
@@ -265,9 +265,6 @@
         "Inslas Cocos"
     ],
     "name:ron_x_preferred":[
-        "Insulele Cocos"
-    ],
-    "name:rum_x_preferred":[
         "Insulele Cocos"
     ],
     "name:rum_x_variant":[
@@ -493,7 +490,7 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1537303825,
+    "wof:lastmodified":1561844819,
     "wof:name":"Australian Indian Ocean Territories",
     "wof:parent_id":102191569,
     "wof:placetype":"country",
