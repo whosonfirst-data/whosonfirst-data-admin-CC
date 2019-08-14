@@ -15,6 +15,9 @@
     "itu:country_code":[
         "61"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "CC"
+    ],
     "lbl:latitude":-12.002,
     "lbl:longitude":96.8785,
     "mps:latitude":-12.002,
@@ -628,23 +631,20 @@
         }
     ],
     "wof:id":1175747295,
-    "wof:lang":[
-        "eng"
-    ],
     "wof:lang_x_official":[
         "eng"
     ],
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1563291250,
+    "wof:lastmodified":1565815245,
     "wof:name":"Australian Indian Ocean Territories",
     "wof:parent_id":102191569,
     "wof:placetype":"dependency",
     "wof:population":628,
     "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-cc",
-    "wof:shortcode":"CCK",
+    "wof:shortcode":"CC",
     "wof:superseded_by":[],
     "wof:supersedes":[
         85632495
