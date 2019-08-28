@@ -11,10 +11,14 @@
     "geom:longitude":96.89497,
     "gn:country":"CC",
     "gn:fcode":"PPL",
-    "gn:pop":500,
+    "gn:population":500,
     "iso:country":"CC",
+    "lbl:bbox":"96.87497,-12.13645,96.91497,-12.09645",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Bantam"
     ],
@@ -60,7 +64,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1547382,
-        "qs:id":556918,
+        "qs_pg:id":556918,
         "wk:page":"Bantam, Connecticut"
     },
     "wof:country":"CC",
@@ -76,7 +80,7 @@
         }
     ],
     "wof:id":890422387,
-    "wof:lastmodified":1564177546,
+    "wof:lastmodified":1566633248,
     "wof:name":"Bantam Village",
     "wof:parent_id":404550151,
     "wof:placetype":"locality",
