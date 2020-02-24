@@ -475,6 +475,10 @@
     ],
     "wof:country":"CC",
     "wof:country_alpha3":"CCK",
+    "wof:geom_alt":[
+        "naturalearth",
+        "quattroshapes"
+    ],
     "wof:geomhash":"ffa4573273e9def056bc2a3bfac6d87b",
     "wof:hierarchy":[
         {
@@ -490,7 +494,7 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1561844819,
+    "wof:lastmodified":1582345580,
     "wof:name":"Australian Indian Ocean Territories",
     "wof:parent_id":102191569,
     "wof:placetype":"country",
