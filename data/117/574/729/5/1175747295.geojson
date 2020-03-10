@@ -597,10 +597,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "dbp:id":"Cocos_%28Keeling%29_Islands",
-        "digitalenvoy:country_code":[
-            166,
-            162
-        ],
+        "digitalenvoy:country_code":162,
         "fb:id":"en.cocos_islands",
         "fifa:id":"CCK",
         "fips:code":"CK",
@@ -616,6 +613,11 @@
         "uncrt:id":"AUS",
         "wd:id":"Q36004",
         "wmo:id":"KK"
+    },
+    "wof:concordances_alt":{
+        "digitalenvoy:country_code":[
+            166
+        ]
     },
     "wof:controlled":[
         "wof:parent_id",
@@ -639,7 +641,7 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1583529251,
+    "wof:lastmodified":1583797769,
     "wof:name":"Australian Indian Ocean Territories",
     "wof:parent_id":102191569,
     "wof:placetype":"dependency",
