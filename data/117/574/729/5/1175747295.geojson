@@ -703,7 +703,7 @@
     ],
     "src:lbl_centroid":"mapshaper",
     "src:population":"naturalearth",
-    "src:population_year":"2016",
+    "src:population_date":"2016",
     "statoids:dial":"61",
     "statoids:ds":"AUS",
     "statoids:fifa":"CCK",
@@ -771,7 +771,7 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1694493029,
+    "wof:lastmodified":1694639811,
     "wof:name":"Australian Indian Ocean Territories",
     "wof:parent_id":102191569,
     "wof:placetype":"dependency",
