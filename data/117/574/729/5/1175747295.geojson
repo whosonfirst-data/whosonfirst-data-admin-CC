@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.01282,
-    "geom:area_square_m":155800814.039712,
+    "geom:area_square_m":155800347.306776,
     "geom:bbox":"96.816941,-12.208726,105.712891,-10.412111",
     "geom:latitude":-10.631937,
     "geom:longitude":104.856762,
@@ -14,6 +14,9 @@
     "iso:country":"CC",
     "itu:country_code":[
         "61"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "external territory"
     ],
     "label:eng_x_preferred_shortcode":[
         "CC"
@@ -699,7 +702,8 @@
         "naturalearth"
     ],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"geonames",
+    "src:population":"naturalearth",
+    "src:population_date":"2016",
     "statoids:dial":"61",
     "statoids:ds":"AUS",
     "statoids:fifa":"CCK",
@@ -751,7 +755,7 @@
     ],
     "wof:country":"CC",
     "wof:country_alpha3":"CCK",
-    "wof:geomhash":"34f1947c06dbf09cb3a767150b11c565",
+    "wof:geomhash":"471faf2725151e9c3f561e3f89409e25",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -767,12 +771,12 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1690865768,
+    "wof:lastmodified":1694639811,
     "wof:name":"Australian Indian Ocean Territories",
     "wof:parent_id":102191569,
     "wof:placetype":"dependency",
-    "wof:population":628,
-    "wof:population_rank":2,
+    "wof:population":544,
+    "wof:population_rank":18,
     "wof:repo":"whosonfirst-data-admin-cc",
     "wof:shortcode":"CC",
     "wof:superseded_by":[],
