@@ -734,6 +734,7 @@
         "gn:id":1547376,
         "gp:id":23424784,
         "hasc:id":"-99",
+        "iso:code":"CC",
         "itu:id":"ICO",
         "m49:code":"166",
         "marc:id":"xb",
@@ -749,6 +750,7 @@
             166
         ]
     },
+    "wof:concordances_official":"iso:code",
     "wof:controlled":[
         "wof:parent_id",
         "wof:hierarchy"
@@ -771,7 +773,7 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1694639811,
+    "wof:lastmodified":1695881382,
     "wof:name":"Australian Indian Ocean Territories",
     "wof:parent_id":102191569,
     "wof:placetype":"dependency",
